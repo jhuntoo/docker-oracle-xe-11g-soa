@@ -7,7 +7,7 @@ Oracle Express Edition 11g Release 2 on Ubuntu 14.04.1 LTS
 
 # Installation
 ```
-git clone https://github.com/plmwong/docker-oracle-xe-11g-soa.git
+git clone https://github.com/paybyphone/docker-oracle-xe-11g-soa.git
 docker build -t paybyphone/soa docker-oracle-xe-11g-soa
 ```
 ### Run container with 22 and 1521 ports opened:
